@@ -1,3 +1,4 @@
+# 🚀 〢 Usage
 # kuziBlackWorM-
 
 ![Annotation_2023-02-12_055423](https://user-images.githubusercontent.com/123809262/218312439-06cf8992-0590-4714-a69b-7c843c8d1a44.png)
