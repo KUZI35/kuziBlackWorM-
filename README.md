@@ -1,4 +1,8 @@
 # kuziBlackWorM-
+
+![Annotation_2023-02-12_055423](https://user-images.githubusercontent.com/123809262/218312439-06cf8992-0590-4714-a69b-7c843c8d1a44.png)
+![Annotation_2023-02-12_055629](https://user-images.githubusercontent.com/123809262/218312443-e573c3a0-df3d-4c39-901a-a0f70292df0f.png)
+
  # Modifed Icon Manager
  # Modifed Plugin Manage
   #  Modfied Plugin Invoking
