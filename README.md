@@ -1,4 +1,4 @@
- # NOT responsible FOR ANY DAMNAGE DONE, OR WHATEVER U DO WITH TOOL
+ # NOT responsible FOR ANY DAMAGE DONE, OR WHATEVER U DO WITH TOOL
 # 🚀 〢 Usage
 # kuziBlackWorM-
 
